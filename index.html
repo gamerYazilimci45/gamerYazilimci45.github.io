@@ -14,6 +14,7 @@
         <a href="/pages/yazilarim.html">Blog ve Yazılar / Blogs</a>
         <a href="https://github.com/gamerYazilimci45">GitHub</a>
       </nav>
+      <button class="menu-toggle">&#9776;</button>
         <h2 class="baslik1">Popüler Yazılımlarım / My Popular Programs</h2>
         <div style="display: flex;flex-direction: column;">
           <div style="display: flex; align-items: center;">
@@ -48,5 +49,13 @@
           </div>
         </div>
         </div>
+        <script>
+          const menuToggle = document.querySelector('.menu-toggle');
+          const navbar = document.querySelector('.navbar');
+
+          menuToggle.addEventListener('click', () => {
+          navbar.classList.toggle('active');
+          });
+        </script>
     </body>
 </html>

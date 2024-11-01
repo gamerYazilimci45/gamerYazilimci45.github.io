@@ -16,6 +16,7 @@
             <a href="https://github.com/gamerYazilimci45">GitHub</a>
             
         </nav>
+        <button class="menu-toggle">&#9776;</button>
         <h2 class="baslik2">3 nedenle Linux neden Windows'tan daha iyi?</h2>
         <p class="pbaslik">1. Açık Kaynak</p>
         <p class="p1" style="margin-top: 35px;">Linux dağıtımları tamamen açık kaynak. Güvenilir ve arkaplanda
@@ -36,5 +37,13 @@
             komutlarıyla indirebilirsiniz. Ya da komut kullanmadan çoğu masaüstü ortamında olan yüklü gelen mağazaları kullanıp,
             flatpak ile indirebilirsiniz.
         </p>
+        <script>
+            const menuToggle = document.querySelector('.menu-toggle');
+            const navbar = document.querySelector('.navbar');
+  
+            menuToggle.addEventListener('click', () => {
+            navbar.classList.toggle('active');
+            });
+          </script>
     </body>
 </html>

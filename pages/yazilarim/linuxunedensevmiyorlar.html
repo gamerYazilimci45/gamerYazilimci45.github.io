@@ -16,6 +16,7 @@
             <a href="https://github.com/gamerYazilimci45">GitHub</a>
             
         </nav>
+        <button class="menu-toggle">&#9776;</button>
         <h2 class="baslik2">Linux'u neden sevmiyorlar?</h2>
         <p class="p1">İnsanlara "Linux'a geçeceğim." veyahut "Linux iyi gibi görünüyor." diye cümle kurduğunuzda bu fikre olumsuz bakacaklardır. Çünkü milletimizin çoğu
             bu konu hakkında bilgi sahibi olmadığı için Linux'u Windows 1.0 gibi birşey zannedip işte düzgün çalışmayan, sürekli bozulan, sisteme zarar veren, güvensiz bir işletim 
@@ -26,6 +27,14 @@
             yıllardır Linux kullanmışta çok sorunla karşılaşmış bazı insanlara Windows ya da MacOS'ta kalmasını söylüyorlar. Günümüzde büyük şirketler bile arkaplanlarında veya sunucularında
             Linux kullanırken toplumun bu kadar bilinçsiz olması kime yazılır bilinmez.
         </p>
+        <script>
+            const menuToggle = document.querySelector('.menu-toggle');
+            const navbar = document.querySelector('.navbar');
+  
+            menuToggle.addEventListener('click', () => {
+            navbar.classList.toggle('active');
+            });
+        </script>
     </body>
 </html>
 

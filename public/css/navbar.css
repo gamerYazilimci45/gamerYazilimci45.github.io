@@ -25,3 +25,47 @@
 .navbar a:last-child{
     margin-right: 25px;
 }
+.menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    color: white;
+    background: none;
+    border: none;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    cursor: pointer;
+  }
+  
+
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0;
+      display: none; 
+      padding-top: 95px;
+      width: 100%;
+    }
+  
+    .navbar.active {
+      display: flex; 
+    }
+  
+    .navbar a {
+      padding: 10px 0;
+      margin: 0;
+      width: 100%;
+      text-align: left;
+      padding-left: 25px;
+      border-top: 1px solid white;
+    }
+  
+    .navbar h2 {
+      margin-left: 25px;
+    }
+  
+    .menu-toggle {
+      display: block;
+    }
+}
