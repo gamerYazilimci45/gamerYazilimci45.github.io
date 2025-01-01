@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>gamerYazilimci45</title>
-    <link>https://gamerYazilimci45.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
     <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gamerYazilimci45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Makine Öğrenmesi İçin Güzel Bir IDE: Spyder</title>
-      <link>https://gamerYazilimci45.github.io/posts/spyder-inceleme/</link>
+      <link>http://localhost:1313/posts/spyder-inceleme/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/spyder-inceleme/</guid>
+      <guid>http://localhost:1313/posts/spyder-inceleme/</guid>
       <description>Spyder # Hepinize merhabalar, bugün sizlere bir Python IDE olan Spyder&amp;rsquo;dan bahsedeceğim. Anaconda indirdiyseniz orada da Spyder&amp;rsquo;ı görmüşsünüzdür. Kendileri açık kaynak, topluluk tarafından geliştirilmiş bilimsel ortam ve Python ile yazılmış bir Python IDE&amp;rsquo;si. Burada bahsettiğim şeylere ulaşabilirsiniz. Ya da direkt burdan okuyabilirsiniz:&#xA;Spyder is an open source, community-developed scientific environment and IDE written in Python, for Python. As scientists, engineers and analysts just like you, we built it to combine the power of a comprehensive development tool with the speed of an interactive data exploration package, all in one easy-to-use interface.</description>
     </item>
     <item>
       <title>My Experiences with Rofi</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/rofi-experiences/</link>
+      <link>http://localhost:1313/en/posts/rofi-experiences/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/rofi-experiences/</guid>
+      <guid>http://localhost:1313/en/posts/rofi-experiences/</guid>
       <description>Rofi: My Experiences and Reviews #Hello everyone, in today&amp;rsquo;s post, I will be reviewing Rofi. Rofi is a tool that allows you to quickly launch applications, switch between windows, and manage workspaces. You can access the program&amp;rsquo;s official website and documentation and its GitHub repository through these links. Now, let’s dive into the article.&#xA;Frequency of Use #To be honest, I haven’t used it much. However, it has come in handy when needed.</description>
     </item>
     <item>
       <title>Rofi Deneyimlerim</title>
-      <link>https://gamerYazilimci45.github.io/posts/rofi-deneyimlerim/</link>
+      <link>http://localhost:1313/posts/rofi-deneyimlerim/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/rofi-deneyimlerim/</guid>
+      <guid>http://localhost:1313/posts/rofi-deneyimlerim/</guid>
       <description>Rofi, Deneyimlerim ve İncelemelerim #Hepinize merhabalar bugün ki yazımda Rofi&amp;rsquo;yi inceleyeceğim. Rofi hızlıca uygulama açmanızı, pencerelerini ve çalışma alanlarınızı değiştirmenizi sağlayan bir araç. Programın web sitesi ve dokümentasyonu ve GitHub&amp;rsquo;una bu linklerden ulaşabilirsiniz. O zaman yazıma geçidyorum.&#xA;Kullanım Sıklığım #Yalan söylemeyeyim çok kullanmadım. Fakat işime yaramadı değil. Çok yerde kullandım ama az kullandım. O şekilde söyleyebilirim.&#xA;Tema Seçimi #Kendi içerisinde birden fazla tema bulunuyor. Ben normalde Dark Blue temasını kullanıyordum. Ayrıca kullanıcılarının kendi yaptığı temalarda var.</description>
     </item>
     <item>
       <title>Why is Windows Bad?</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/why-win-is-bad/</link>
+      <link>http://localhost:1313/en/posts/why-win-is-bad/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/why-win-is-bad/</guid>
+      <guid>http://localhost:1313/en/posts/why-win-is-bad/</guid>
       <description>Why is Windows Bad? #Hello, in this post, I will explain why the Windows operating system is bad. Don&amp;rsquo;t forget to check out my blog where I talk about the good sides of Linux! Now, let&amp;rsquo;s move on to this blog. The things I will mention here are completely my personal opinions. Happy reading!&#xA;License Key #You need a license key to use Windows. After a certain period, you&amp;rsquo;ll see the annoying Activate Windows!</description>
     </item>
     <item>
       <title>Windows Neden Kötü?</title>
-      <link>https://gamerYazilimci45.github.io/posts/win-neden-kotu/</link>
+      <link>http://localhost:1313/posts/win-neden-kotu/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/win-neden-kotu/</guid>
+      <guid>http://localhost:1313/posts/win-neden-kotu/</guid>
       <description>Windows Neden Kötü? #Merhabalar, bu yazımda sizlere Windows işletim sisteminin neden kötü olduğunu anlatıcam. Linux&amp;rsquo;un iyi yanlarından bahsettiğim blogumu da okumayı unutmayın! Hadi şimdi bu bloguma geçelim. Burada bahsedeceğim şeyler tamamen öznel görüşümdür. İyi okumalar&#xA;Lisans Anahtarı #Windows&amp;rsquo;u kullanmak için bir lisans anahtarına sahip olmanız gerekiyor. Size verilen belli bir süre sonra ekranınızın sağ altında o herkesin gıcık olduğu Windows&#39;u etkinleştir! yazısı çıkıyor. Ve bu lisans anahtarı fiyatları da malum. Lisanssız kullanmak için belirli yöntemler var.</description>
     </item>
     <item>
       <title>Anka Browser v1.9.7 Released!</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</link>
+      <link>http://localhost:1313/en/posts/anka-browser-v1.9.7/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</guid>
+      <guid>http://localhost:1313/en/posts/anka-browser-v1.9.7/</guid>
       <description>Anka Browser v1.9.7 #Anka Browser is my browser project. If you don’t know what it is, you can click on the link to my blog where I introduce it and explain how to install it. You can also find instructions for downloading it on the same link.&#xA;This new version introduces several features, taking significant steps toward v2.0.&#xA;What’s New? #Open Your Files and Images #I’ve added a &amp;ldquo;File Open&amp;rdquo; menu to the right-click menu, allowing you to open images, HTML, Markdown, text, and PDF files.</description>
     </item>
     <item>
       <title>Anka Browser v1.9.7 Yayınlandı!</title>
-      <link>https://gamerYazilimci45.github.io/posts/anka-browser-v1.9.7/</link>
+      <link>http://localhost:1313/posts/anka-browser-v1.9.7/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/anka-browser-v1.9.7/</guid>
+      <guid>http://localhost:1313/posts/anka-browser-v1.9.7/</guid>
       <description>Anka Browser v1.9.7 #Anka Browser benim tarayıcı projem, eğer ne olduğunu bilmiyorsanız, tanıttığım ve nasıl kurulacağını anlattığım blogumun linkine tıklayarak öğrenebilirsiniz. İndirmek istersenizde yine aynı linkte nası indirebileceğinizi anlattım. Yeni versiyonda getirdiğim birkaç şey var. Fakat v2.0 için önemli adımlar.&#xA;Neler Eklendi? #Dosyalarınızı ve Resimlerinizi Açın #Sağ menüye eklediğim &amp;ldquo;Dosya Aç&amp;rdquo; menüsüyle, resim, HTML, Markdown, metin, ve PDF dosyalarınızı açabilirsiniz.&#xA;PDF&amp;rsquo;leriniz için özel destek #Tarayıcımız PyQt6WebEngine ile yapıldığından ana taban olarak Chromium kullanmaktadır.</description>
     </item>
     <item>
       <title>Linux Güzellikleri</title>
-      <link>https://gamerYazilimci45.github.io/posts/linux-guzellikleri/</link>
+      <link>http://localhost:1313/posts/linux-guzellikleri/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/linux-guzellikleri/</guid>
+      <guid>http://localhost:1313/posts/linux-guzellikleri/</guid>
       <description>Linux ve Güzellikleri #Merhabalar, bugün sizlere Linux&amp;rsquo;un güzelliklerinden ve avantajlarından bahsedeceğim. Linux&amp;rsquo;un dezavantajlarından da bahsetmeyi ilerde düşünüyorum. Fakat burada Linux&amp;rsquo;un kullanıcı dostu olup olmamamasıyla alakalı bir eleştiride bulunmayacağım, yeni başlayacak/başlayan birisiyseniz okuyarak kafa karıştırmanızı tavsiye etmem.&#xA;Çeşitlilik ve Özgürlük #Linux tek bir işletim sistemi değil, bir sürü dağıtımı var. Herkes için, her meslek için, her kitle için. Ayrıca işletim sisteminden ziyade, dosya yöneticisi, terminal, kabuk(shell), metin düzenleyici, masaüstü ortamı, güvenlik duvarı, hepsinde bir sürü alternatif var.</description>
     </item>
     <item>
       <title>The Beauties of Linux</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/linux-beauties/</link>
+      <link>http://localhost:1313/en/posts/linux-beauties/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/linux-beauties/</guid>
+      <guid>http://localhost:1313/en/posts/linux-beauties/</guid>
       <description>Linux and Its Beauties #Hello everyone, today I will discuss the beauties and advantages of Linux. I also plan to talk about Linux&amp;rsquo;s disadvantages in the future. However, I won’t be criticizing Linux&amp;rsquo;s user-friendliness here. If you are a beginner or just starting out, I advise you not to confuse yourself by reading this.&#xA;Variety and Freedom #Linux is not just one operating system; it has many distributions. For everyone, every profession, and every audience.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://gamerYazilimci45.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>gamerYazilimci45 Teknolojiyi seven, Linux ve yazılımla uğraşan biri RSS Don&amp;rsquo;t forget follow me on GitHub! About #Hello everbody, I am gamerYazilimci45. I am Turkish and Muslim. I am programmer and I develop programs. My favourite quote(It is a Turkish):&#xA;&amp;ldquo;İstisna sonuçlar istiyorsanız, müstesna koşullar altında çalışmak zorundasınız. - Selçuk Bayraktar&#xA;Interests #My interests:&#xA;Software and Program Developing Linux Operating Systems Cyber Security History Astronomy Geoghraphy Math(in my favourites) My Idol #I&amp;rsquo;ve set myself a few idols.</description>
     </item>
     <item>
       <title>Hakkımda</title>
-      <link>https://gamerYazilimci45.github.io/hakkimda/</link>
+      <link>http://localhost:1313/hakkimda/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/hakkimda/</guid>
+      <guid>http://localhost:1313/hakkimda/</guid>
       <description>gamerYazilimci45 Teknolojiyi seven, Linux ve yazılımla uğraşan biri RSS Beni GitHub&amp;rsquo;ta takip etmeyi unutma! Hakkımda #Hepinize merhabalar, ben bu sitenin sahibi gamerYazilimci45. Türküm ve Müslümanım. Yazılım ve program geliştiriciliği yapıyorum. En sevdiğim söz:&#xA;&amp;ldquo;İstisna sonuçlar istiyorsanız, müstesna koşullar altında çalışmak zorundasınız. - Selçuk Bayraktar&#xA;İlgi alanlarım #İlgi alanlarım bunlar:&#xA;Yazılım ve Program Geliştiriciliği Linux İşletim Sistemleri Siber Güvenlik Tarih Gökbilim Coğrafya Matematik(en sevdiklerimden) İdolüm #Kendime birkaç idol belirledim. Bunların hepsi farklı sebeplere dayalı, işte idollerim:</description>
     </item>
     <item>
       <title>Anka Browser İndirme ve Derleme</title>
-      <link>https://gamerYazilimci45.github.io/posts/anka-browser-indirme/</link>
+      <link>http://localhost:1313/posts/anka-browser-indirme/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/anka-browser-indirme/</guid>
+      <guid>http://localhost:1313/posts/anka-browser-indirme/</guid>
       <description>Anka Browser #Anka Browser, PyQt6 ile geliştirilmiş, QtWebEngine kullanan bir tarayıcıdır. Amaç, kullanıcılarının verilerini toplamayan, hızlı ve güvenli bir tarayıcı oluşturmaktır. Tarayıcımızı GitHub üzerinden yıldızlamayı unutmayın!&#xA;Son Kullanıcı İçin Nasıl İndirilir? # 1 ) GitHub adresimize gidin. 2 ) Sağ taraftaki &amp;ldquo;Releases&amp;rdquo; kısmından en son ki sürümümüzü(v1.9.5) indirin. 3 ) İndirdiğiniz .zip dosyasını çıkartın, ve içindeki anka-browser adlı çalıştırılabilir dosyayı çalıştırın. Tebrikler, Anka Browser&amp;rsquo;ı indirdiniz, artık kullanabilirsiniz! Pull Request ve Kodunu Almak İsteyenler İçin: Nasıl Derlenir?</description>
     </item>
     <item>
       <title>Download and Compiling Anka Browser</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</link>
+      <link>http://localhost:1313/en/posts/anka-browser-download/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</guid>
+      <guid>http://localhost:1313/en/posts/anka-browser-download/</guid>
       <description>Anka Browser #Anka Browser is a browser developed using PyQt6 and powered by QtWebEngine. The goal is to create a fast, secure browser that does not collect user data. Don’t forget to star our project on GitHub!&#xA;How to Download for End Users? # Visit our GitHub page. Navigate to the &amp;ldquo;Releases&amp;rdquo; section on the right-hand side and download the latest version (v1.9.5). Extract the downloaded .zip file, and run the executable file named anka-browser.</description>
     </item>
     <item>
       <title>First Blog</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/first-blog/</link>
+      <link>http://localhost:1313/en/posts/first-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/first-blog/</guid>
+      <guid>http://localhost:1313/en/posts/first-blog/</guid>
       <description>Hello World! My first blog on my website use Hugo</description>
     </item>
     <item>
       <title>İlk Yazı</title>
-      <link>https://gamerYazilimci45.github.io/posts/ilk-blog/</link>
+      <link>http://localhost:1313/posts/ilk-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/posts/ilk-blog/</guid>
+      <guid>http://localhost:1313/posts/ilk-blog/</guid>
       <description>Merhaba dünya! Hugo kullandığım sitemdeki ilk yazım.</description>
     </item>
   </channel>
