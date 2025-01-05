@@ -10,44 +10,44 @@
     <atom:link href="https://gamerYazilimci45.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Experiences with Rofi</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/rofi-experiences/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/rofi-experiences/</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/rofi-experiences/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/rofi-experiences/</guid>
       <description>Rofi: My Experiences and Reviews #Hello everyone, in today&amp;rsquo;s post, I will be reviewing Rofi. Rofi is a tool that allows you to quickly launch applications, switch between windows, and manage workspaces. You can access the program&amp;rsquo;s official website and documentation and its GitHub repository through these links. Now, let’s dive into the article.&#xA;Frequency of Use #To be honest, I haven’t used it much. However, it has come in handy when needed.</description>
     </item>
     <item>
       <title>Why is Windows Bad?</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/why-win-is-bad/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/why-win-is-bad/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/why-win-is-bad/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/why-win-is-bad/</guid>
       <description>Why is Windows Bad? #Hello, in this post, I will explain why the Windows operating system is bad. Don&amp;rsquo;t forget to check out my blog where I talk about the good sides of Linux! Now, let&amp;rsquo;s move on to this blog. The things I will mention here are completely my personal opinions. Happy reading!&#xA;License Key #You need a license key to use Windows. After a certain period, you&amp;rsquo;ll see the annoying Activate Windows!</description>
     </item>
     <item>
       <title>Anka Browser v1.9.7 Released!</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/anka-browser-v1.9.7/</link>
       <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-v1.9.7/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/anka-browser-v1.9.7/</guid>
       <description>Anka Browser v1.9.7 #Anka Browser is my browser project. If you don’t know what it is, you can click on the link to my blog where I introduce it and explain how to install it. You can also find instructions for downloading it on the same link.&#xA;This new version introduces several features, taking significant steps toward v2.0.&#xA;What’s New? #Open Your Files and Images #I’ve added a &amp;ldquo;File Open&amp;rdquo; menu to the right-click menu, allowing you to open images, HTML, Markdown, text, and PDF files.</description>
     </item>
     <item>
       <title>The Beauties of Linux</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/linux-beauties/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/linux-beauties/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/linux-beauties/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/linux-beauties/</guid>
       <description>Linux and Its Beauties #Hello everyone, today I will discuss the beauties and advantages of Linux. I also plan to talk about Linux&amp;rsquo;s disadvantages in the future. However, I won’t be criticizing Linux&amp;rsquo;s user-friendliness here. If you are a beginner or just starting out, I advise you not to confuse yourself by reading this.&#xA;Variety and Freedom #Linux is not just one operating system; it has many distributions. For everyone, every profession, and every audience.</description>
     </item>
     <item>
       <title>Download and Compiling Anka Browser</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/anka-browser-download/</link>
       <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/anka-browser-download/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/anka-browser-download/</guid>
       <description>Anka Browser #Anka Browser is a browser developed using PyQt6 and powered by QtWebEngine. The goal is to create a fast, secure browser that does not collect user data. Don’t forget to star our project on GitHub!&#xA;How to Download for End Users? # Visit our GitHub page. Navigate to the &amp;ldquo;Releases&amp;rdquo; section on the right-hand side and download the latest version (v1.9.5). Extract the downloaded .zip file, and run the executable file named anka-browser.</description>
     </item>
     <item>
       <title>First Blog</title>
-      <link>https://gamerYazilimci45.github.io/en/posts/first-blog/</link>
+      <link>https://gamerYazilimci45.github.io/en/blogs/first-blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://gamerYazilimci45.github.io/en/posts/first-blog/</guid>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/first-blog/</guid>
       <description>Hello World! My first blog on my website use Hugo</description>
     </item>
   </channel>
