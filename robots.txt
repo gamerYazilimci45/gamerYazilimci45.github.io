@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamerYazilimci45.github.io/sitemap.xml
