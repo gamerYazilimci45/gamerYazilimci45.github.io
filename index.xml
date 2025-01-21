@@ -6,8 +6,15 @@
     <description>Recent content on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gamerYazilimci45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Nice IDE for Machine Learning: Spyder</title>
+      <link>https://gamerYazilimci45.github.io/en/blogs/spyder-review/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/spyder-review/</guid>
+      <description>Spyder # Hello to all of you, today I will talk about Spyder, a Python IDE. If you have downloaded Anaconda, you have seen Spyder there. It&amp;rsquo;s an open source, community-developed scientific environment and a Python IDE written in Python. You can find what I&amp;rsquo;m talking about here. Or you can read it directly here:&#xA;Spyder is an open source, community-developed scientific environment and IDE written in Python, for Python. As scientists, engineers and analysts just like you, we built it to combine the power of a comprehensive development tool with the speed of an interactive data exploration package, all in one easy-to-use interface.</description>
+    </item>
     <item>
       <title>Makine Öğrenmesi İçin Güzel Bir IDE: Spyder</title>
       <link>https://gamerYazilimci45.github.io/blogs/spyder-inceleme/</link>
