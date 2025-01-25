@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Others on gamerYazilimci45</title>
+    <link>http://localhost:1313/en/other/</link>
+    <description>Recent content in Others on gamerYazilimci45</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog</title>
+      <link>http://localhost:1313/en/other/first-blog/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/other/first-blog/</guid>
+      <description>Hello World! My first blog on my website use Hugo</description>
+    </item>
+  </channel>
+</rss>
