@@ -6,8 +6,22 @@
     <description>Recent content on gamerYazilimci45</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr</language>
-    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 22:53:34 +0300</lastBuildDate>
     <atom:link href="https://gamerYazilimci45.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anka Browser Cpp</title>
+      <link>https://gamerYazilimci45.github.io/en/blogs/anka-browser-cpp/</link>
+      <pubDate>Wed, 02 Apr 2025 22:53:34 +0300</pubDate>
+      <guid>https://gamerYazilimci45.github.io/en/blogs/anka-browser-cpp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anka Browser C&#43;&#43; Versiyonuyla Yayınlandı!</title>
+      <link>https://gamerYazilimci45.github.io/blogs/anka-browser-cpp/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://gamerYazilimci45.github.io/blogs/anka-browser-cpp/</guid>
+      <description>Anka Browser v1.0 #Hepinize merhabalar, Anka Browser&amp;rsquo;ı biliyorsunuzdur. Kişisel tarayıcı projem. PyQt kullanıyordum ve Python ile yazıyorum. Fakat PyQt kütüphanesinin eksikliklerinden dolayı projeyi C++&amp;lsquo;a geçirme kararı aldım. Bu C++ kullandığım ve direkt ana Qt kütüphanesini kullandığım ilk versiyon. İlk versiyon olması sebebiyle önceki versiyona kıyasla çok eksiği var. Fakat bunları en kısa sürede telafi edip, yeni versiyonlarda daha iyisini getireceğimden şüpheniz olmasın.&#xA;Önceki versiyonlara göre neler eksik? # Türkçe dil desteği şuanlık yok, sadece İngilizce var.</description>
+    </item>
     <item>
       <title>A Nice IDE for Machine Learning: Spyder</title>
       <link>https://gamerYazilimci45.github.io/en/blogs/spyder-review/</link>
